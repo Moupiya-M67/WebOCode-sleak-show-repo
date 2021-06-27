@@ -156,8 +156,6 @@ a {
     justify-content: center;
     align-items: center;
     background-image:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,0.6)), url('../images/contact-1-bg.jpeg');
- 
-    z-index: -2;
     background-position: center;
     background-size: cover;
     box-sizing: border-box;
@@ -266,8 +264,8 @@ a {
 }
 .contact-form .inputBox input[type="submit"]:hover
 {
-    background: #e70752;
-    font-size: 14px;
+    background: #ff8714;
+    transition: 0.3s;
 }
 @media (max-width: 991px)
 {
