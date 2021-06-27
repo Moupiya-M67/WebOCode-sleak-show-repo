@@ -1,4 +1,4 @@
-filterSelection("chairs")
+filterSelection("tables")
 function filterSelection(c) {
   var x, i;
   x = document.getElementsByClassName("filterDiv");
