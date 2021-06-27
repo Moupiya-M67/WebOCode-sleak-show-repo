@@ -16,6 +16,7 @@
 #myBtnContainer{
   margin: 25px auto 10px auto;
   width: 88%;
+  font-family: 'Times New Roman', Times, serif;
   /* border: 2px solid red; */
 }
 
